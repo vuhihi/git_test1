@@ -3,4 +3,4 @@ commit lan 2
 commit lan3
 commit lan3
 kiem tra status
-du2nng stash de lam viec khac
+du2nng stash de lam viec khacoioioioi
