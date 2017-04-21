@@ -1,2 +1,3 @@
 commit l?n 2
 ki?m tra status
+kiem tra status
